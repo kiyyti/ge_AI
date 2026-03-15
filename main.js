@@ -1,7 +1,7 @@
 // ==========================================
 // 1. ตั้งค่า API และตัวแปรเก็บข้อมูล
 // ==========================================
-const YOUR_MAKE_WEBHOOK_URL = 'https://kitt-jeamanukunkit.app.n8n.cloud/webhook/add-expense';        
+const YOUR_MAKE_WEBHOOK_URL = 'https://kitti-eiei.app.n8n.cloud/webhook/add-expense';        
 const GOOGLE_SHEET_API_URL = 'https://script.google.com/macros/s/AKfycbyXDrCE1dcUznVcit1h4gRLIv6E-xz8Apj8blMNTGE6Ynb5MWsP1eOkP0R6apGxzfcS/exec';
 
 let allData = []; // เก็บข้อมูลทั้งหมดจาก Sheets
